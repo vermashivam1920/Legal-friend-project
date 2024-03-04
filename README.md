@@ -1,0 +1,1 @@
+My Legal Friend is a web portal where Advocates can register online and offer their legal advice and services. Clients/users who are looking for legal advice can also register on the portal as Client. Clients can interact with the Advocates by sending the connect request. Portal also lists the contact details of the Advocates whose profile is public on the portal.
